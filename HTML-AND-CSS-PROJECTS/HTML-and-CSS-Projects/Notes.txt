@@ -1,0 +1,22 @@
+<!Doctype HTML>
+<html>
+<Head>
+</Head>
+<Body>
+<link rel="stylesheet" type="text/css" href="">
+<link rel="help" href="https://www.youtewebsitename.com/help/"">
+<p> This is Link element that links a document to an external resource. Common to use link tags to link style sheet.
+Rel is used for relationship and is an attribute to describe the link elements behavior. For example, Rel help means you're linkikng to the help apge
+on your site. Stylesheet is comon value used tfollowing rel attribute.
+Audio/textcss is a diff type of types. and hrefwill say the dest.</p>
+
+
+Reserved characters in HTML must be replaced with entities:
+
+< (less than) = &lt;
+> (greather than) = &gt;
+
+&entitiy_name; &lt;
+&#entity_number; 
+</Body>
+</html>
